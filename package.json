@@ -6,5 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "jb-bar": "git+https://github.com/dalsgaard/jb-bar.git"
+  }
 }

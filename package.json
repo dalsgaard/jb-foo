@@ -8,6 +8,7 @@
   },
   "author": "",
   "dependencies": {
+    "@jyskebank/jb-bar": "git+https://github.com/dalsgaard/jb-bar.git",
     "jb-bar": "git+https://github.com/dalsgaard/jb-bar.git"
   }
 }

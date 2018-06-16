@@ -1,6 +1,6 @@
 {
   "name": "@jyskebank/jb-foo",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,6 @@
   },
   "author": "",
   "dependencies": {
-    "@jyskebank/jb-bar": "git+https://github.com/dalsgaard/jb-bar.git",
-    "jb-bar": "git+https://github.com/dalsgaard/jb-bar.git"
+    "@jyskebank/jb-bar": "git+https://github.com/dalsgaard/jb-bar.git#v0.0.1"
   }
 }

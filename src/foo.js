@@ -1,10 +1,14 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element';
+import '@jyskebank/jb-bar';
 
 export class Foo extends PolymerElement {
   
   static get template() {
     return html`
-      <section>Foo!</section>
+      <section>
+        <h4>Foo!</h4>
+        <jb-bar></jb-bar>
+      </section>
     `;
   }
 
